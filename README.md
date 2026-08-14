@@ -68,7 +68,7 @@ I build scalable, high-impact systems for African tech ecosystems — from cloud
     <tr>
       <td>
         <a href="https://github.com/kelvin-lamptey">
-          <img src="https://github-readme-stats.vercel.app/api?username=kelvin-lamptey&show_icons=true&theme=transparent&title_color=2259ec&text_color=c9d1d9&icon_color=2259ec&hide_border=true&count_private=true&include_all_commits=true" alt="Kelvin's GitHub Stats" />
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kelvin-lamptey&theme=github_dark" alt="Kelvin's GitHub Stats" />
         </a>
       </td>
       <td>
@@ -77,13 +77,19 @@ I build scalable, high-impact systems for African tech ecosystems — from cloud
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/kelvin-lamptey">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kelvin-lamptey&theme=github_dark" alt="Top Commit Languages" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/kelvin-lamptey">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kelvin-lamptey&theme=github_dark" alt="Repos per Language" />
+        </a>
+      </td>
+    </tr>
   </table>
-
-  <br/>
-
-  <a href="https://github.com/kelvin-lamptey">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin-lamptey&layout=compact&theme=transparent&title_color=2259ec&text_color=c9d1d9&hide_border=true" alt="Top Languages" />
-  </a>
 </div>
 
 ---
